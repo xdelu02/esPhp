@@ -1,0 +1,8 @@
+html, body {
+    height: 100%;
+}
+
+.prodotto {
+    padding: 10px;
+    border: 1px solid black;
+}
